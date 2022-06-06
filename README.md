@@ -5,4 +5,4 @@ tx-git-workshop
 
 2. Marut Maluleem
 
-3. Kitsanapong Rodjing
+3. Phakawat Tapaopong
