@@ -1,8 +1,14 @@
 # tx-git-workshop
 tx-git-workshop
 
-1.Chalat Monkhontirapat
+1. Chalat Monkhontirapat
 
 2. Marut Maluleem
 
-3. Samut Chouybumrung
+4. Kitsanapong Rodjing
+
+5. Pasakorn Phareyart
+
+6. Phawit Pukamkom
+
+7. Samut Chouybumrung
